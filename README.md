@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes👋;)](https://git.io/typing-svg) 
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes👋;)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Haynes79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/haynes-e-j)

@@ -1,8 +1,8 @@
 # Hi, I'm Haynes 👋  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Haynes79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:yourmail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:haynesej79@gmail.com)
 
 ---
 

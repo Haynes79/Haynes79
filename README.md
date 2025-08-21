@@ -29,8 +29,8 @@
 ---
 
 ## 📬 Connect with Me  
-📧 Email: [yourmail@gmail.com](mailto:haynesej79@gmail.com)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
+🌐 Portfolio: [](https://yourwebsite.com)  
 
 ---
 

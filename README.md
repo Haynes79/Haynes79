@@ -9,7 +9,7 @@
 <a href="mailto:haynesej79@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" />
 </a>
-<a href="https://www.instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/haynx_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff" />
 </a>
 

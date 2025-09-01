@@ -13,7 +13,7 @@
 💻 BCA Graduate & Aspiring **IT Professional**  
 ⚡ Exploring **Web Development | RPA with UiPath | C++ OOP**  
 📚 Passionate about building automation workflows and smooth UI websites  
-🌱 Currently learning **React & JavaScript**  
+🌱 Currently learning **Node and Express**  
 
 ---
 

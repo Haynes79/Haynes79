@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-💻 BCA Graduate & Aspiring Full Stack Developer
+💻 BCA Graduate & Aspiring **Full Stack Developer**
 ⚡ Exploring Web Development | RPA with UiPath | Node.js & Express
 📚 Passionate about creating automation workflows and clean, responsive UI websites
 🌱 Currently learning Full-Stack Development (MERN)

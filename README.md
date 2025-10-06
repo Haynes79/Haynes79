@@ -9,30 +9,59 @@
 
 ---
 
-## 🚀 About Me  
-💻 BCA Graduate & Aspiring **IT Professional**  
-⚡ Exploring **Web Development | RPA with UiPath | C++ OOP**  
-📚 Passionate about building automation workflows and smooth UI websites  
-🌱 Currently learning **Node and Express**  
+🚀 About Me
 
----
+💻 BCA Graduate & Aspiring Full Stack Developer
+⚡ Passionate about Web Development, Backend Engineering, and RPA Automation
+🤖 Skilled in UiPath, building automation workflows and data-driven processes
+🌱 Currently learning Node.js, Express.js, and MongoDB
+💡 Focused on crafting clean UIs and efficient backend logic
 
-## 🛠️ Tech Stack  
-- **Languages**: C, C++, JavaScript, HTML, CSS  
-- **Frameworks & Tools**: React, UiPath, Git/GitHub  
-- **Other Interests**: Automation, System Optimization  
+🛠️ Tech Stack
+💻 Languages
 
----
+C | C++ | JavaScript
 
-## 🚀 Projects  
-🔹 **React Portfolio Website** – Smooth UI, Markdown blogs, Responsive design  
-🔹 **UiPath Email Automation** – Automated email workflows with exception handling  
-🔹 **C++ OOP Practice** – Classes, Objects, and Array-based problem solving  
+🌐 Frontend
 
----
+HTML | CSS | React.js | Tailwind CSS
 
-## 📬 Connect with Me  
-📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
-🌐 Portfolio: [](https://yourwebsite.com)  
+⚙️ Backend & Tools
 
----
+Node.js | Express.js | REST APIs | Git & GitHub | Postman | VS Code
+
+🤖 Automation
+
+UiPath (RPA) – Email automation, data scraping, exception handling
+
+🧩 Other Interests
+
+System Optimization | Automation Workflows | UI/UX Improvement
+
+🧠 Projects
+
+🔹 React Portfolio Website
+Smooth UI animations, Markdown blog integration, and responsive layout.
+🛠️ Tech: React, Tailwind, Framer Motion
+
+🔹 UiPath Email Automation System
+Automated email workflows with attachment validation and exception alerts.
+🛠️ Tech: UiPath, Outlook, Excel
+
+🔹 Node.js REST API
+Basic Express API for backend health checks and data operations.
+🛠️ Tech: Node.js, Express, MongoDB
+
+🔹 C++ OOP Practice Projects
+Class & object-based problem solving with array and file handling.
+🛠️ Tech: C++
+
+📊 GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Haynes79&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haynes79&theme=radical" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
+📬 Connect with Me
+
+📧 haynesej79@gmail.com
+
+💼 LinkedIn
+
+🌐 Portfolio: Coming Soon

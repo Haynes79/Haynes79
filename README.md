@@ -44,7 +44,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Haynes79&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haynes79&theme=radical" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
+ </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
 📬 Connect with Me
 
 📧 Email: haynesej79@gmail.com

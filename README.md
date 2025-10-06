@@ -12,56 +12,35 @@
 🚀 About Me
 
 💻 BCA Graduate & Aspiring Full Stack Developer
-⚡ Passionate about Web Development, Backend Engineering, and RPA Automation
-🤖 Skilled in UiPath, building automation workflows and data-driven processes
-🌱 Currently learning Node.js, Express.js, and MongoDB
-💡 Focused on crafting clean UIs and efficient backend logic
+⚡ Exploring Web Development | RPA with UiPath | Node.js & Express
+📚 Passionate about creating automation workflows and clean, responsive UI websites
+🌱 Currently learning Full-Stack Development (MERN)
 
 🛠️ Tech Stack
-💻 Languages
 
-C | C++ | JavaScript
+Languages: C, C++, JavaScript
 
-🌐 Frontend
+Frontend: HTML, CSS, React, Tailwind CSS
 
-HTML | CSS | React.js | Tailwind CSS
+Backend: Node.js, Express.js, REST APIs
 
-⚙️ Backend & Tools
+Automation: UiPath (Email automation, Data extraction, Exception handling)
 
-Node.js | Express.js | REST APIs | Git & GitHub | Postman | VS Code
+Tools: Git, GitHub, Postman, VS Code
 
-🤖 Automation
+Other Interests: Automation, System Optimization, UI/UX Design
 
-UiPath (RPA) – Email automation, data scraping, exception handling
+🚀 Projects
 
-🧩 Other Interests
-
-System Optimization | Automation Workflows | UI/UX Improvement
-
-🧠 Projects
-
-🔹 React Portfolio Website
-Smooth UI animations, Markdown blog integration, and responsive layout.
-🛠️ Tech: React, Tailwind, Framer Motion
-
-🔹 UiPath Email Automation System
-Automated email workflows with attachment validation and exception alerts.
-🛠️ Tech: UiPath, Outlook, Excel
-
-🔹 Node.js REST API
-Basic Express API for backend health checks and data operations.
-🛠️ Tech: Node.js, Express, MongoDB
-
-🔹 C++ OOP Practice Projects
-Class & object-based problem solving with array and file handling.
-🛠️ Tech: C++
+🔹 React Portfolio Website – Smooth UI, Markdown blogs, Responsive design
+🔹 UiPath Email Automation – Automated email workflows with attachment validation and exception handling
+🔹 Node.js REST API – Backend API for health checks and data management
+🔹 C++ OOP Practice – Classes, Objects, and Array-based problem solving
 
 📊 GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Haynes79&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haynes79&theme=radical" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
 📬 Connect with Me
 
-📧 haynesej79@gmail.com
-
-💼 LinkedIn
+📧 Email: haynesej79@gmail.com
 
 🌐 Portfolio: Coming Soon

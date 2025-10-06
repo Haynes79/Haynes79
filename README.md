@@ -12,34 +12,34 @@
 ## 🚀 About Me
 
 💻 BCA Graduate & Aspiring **Full Stack Developer**
-⚡ Exploring Web Development | RPA with UiPath | Node.js & Express
+⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**
 📚 Passionate about creating automation workflows and clean, responsive UI websites
-🌱 Currently learning Full-Stack Development (MERN)
+🌱 Currently learning **Full-Stack Development (MERN)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-Languages: C, C++, JavaScript
+-**Languages**: C, C++, JavaScript
 
-Frontend: HTML, CSS, React, Tailwind CSS
+-**Frontend:** HTML, CSS, React, Tailwind CSS
 
-Backend: Node.js, Express.js, REST APIs
+-**Backend:** Node.js, Express.js, REST APIs
 
-Automation: UiPath (Email automation, Data extraction, Exception handling)
+-**Automation:** UiPath (Email automation, Data extraction, Exception handling)
 
-Tools: Git, GitHub, Postman, VS Code
+-**Tools:** Git, GitHub, Postman, VS Code
 
-Other Interests: Automation, System Optimization, UI/UX Design
+-**Other Interests:** Automation, System Optimization, UI/UX Design
 
 ---
 
 ## 🚀 Projects
 
-🔹 React Portfolio Website – Smooth UI, Markdown blogs, Responsive design
-🔹 UiPath Email Automation – Automated email workflows with attachment validation and exception handling
-🔹 Node.js REST API – Backend API for health checks and data management
-🔹 C++ OOP Practice – Classes, Objects, and Array-based problem solving
+🔹 **React Portfolio Website** – Smooth UI, Markdown blogs, Responsive design
+🔹 **UiPath Email Automation** – Automated email workflows with attachment validation and exception handling
+🔹 **Node.js REST API** – Backend API for health checks and data management
+🔹 **C++ OOP Practice** – Classes, Objects, and Array-based problem solving
 
 ---
 

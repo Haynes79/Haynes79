@@ -9,14 +9,16 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 💻 BCA Graduate & Aspiring Full Stack Developer
 ⚡ Exploring Web Development | RPA with UiPath | Node.js & Express
 📚 Passionate about creating automation workflows and clean, responsive UI websites
 🌱 Currently learning Full-Stack Development (MERN)
 
-🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 Languages: C, C++, JavaScript
 
@@ -30,14 +32,18 @@ Tools: Git, GitHub, Postman, VS Code
 
 Other Interests: Automation, System Optimization, UI/UX Design
 
-🚀 Projects
+---
+
+## 🚀 Projects
 
 🔹 React Portfolio Website – Smooth UI, Markdown blogs, Responsive design
 🔹 UiPath Email Automation – Automated email workflows with attachment validation and exception handling
 🔹 Node.js REST API – Backend API for health checks and data management
 🔹 C++ OOP Practice – Classes, Objects, and Array-based problem solving
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Haynes79&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haynes79&theme=radical" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
 📬 Connect with Me
 

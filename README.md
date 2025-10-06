@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-💻 BCA Graduate & Aspiring **Full Stack Developer**
-⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**
-📚 Passionate about creating automation workflows and clean, responsive UI websites
-🌱 Currently learning **Full-Stack Development (MERN)**
+-💻 BCA Graduate & Aspiring **Full Stack Developer**
+-⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**
+-📚 Passionate about creating automation workflows and clean, responsive UI websites
+-🌱 Currently learning **Full-Stack Development (MERN)**
 
 ---
 
@@ -36,10 +36,10 @@
 
 ## 🚀 Projects
 
-🔹 **React Portfolio Website** – Smooth UI, Markdown blogs, Responsive design
-🔹 **UiPath Email Automation** – Automated email workflows with attachment validation and exception handling
-🔹 **Node.js REST API** – Backend API for health checks and data management
-🔹 **C++ OOP Practice** – Classes, Objects, and Array-based problem solving
+-🔹 **React Portfolio Website** – Smooth UI, Markdown blogs, Responsive design
+-🔹 **UiPath Email Automation** – Automated email workflows with attachment validation and exception handling
+-🔹 **Node.js REST API** – Backend API for health checks and data management
+-🔹 **C++ OOP Practice** – Classes, Objects, and Array-based problem solving
 
 ---
 

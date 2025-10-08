@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
  </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
- ---
+---
 📬 Connect with Me
 
 📧 Email: haynesej79@gmail.com

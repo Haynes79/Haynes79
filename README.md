@@ -12,14 +12,15 @@
 - 💻 BCA Graduate & Aspiring **Full Stack Developer**  
 - ⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**  
 - 📚 Passionate about creating automation workflows and clean, responsive UI websites  
-- 🌱 Currently learning **Full-Stack Development (MERN)**  
+- 💼 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
+- 🌱 Currently exploring **Next.js** path for full-stack web apps  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, C++, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Tailwind CSS  
+- **Languages:** C, C++, JavaScript, TypeScript  
+- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Automation:** UiPath (Email automation, Data extraction, Exception handling)  
 - **Tools:** Git, GitHub, Postman, VS Code  
@@ -37,10 +38,13 @@
 ---
 
 ## 📊 GitHub Stats
- </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" /> </p>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
+</p>
 
-📬 Connect with Me
+---
 
-📧 Email: haynesej79@gmail.com
+📬 **Connect with Me**
 
-🌐 Portfolio: Coming Soon
+📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
+🌐 Portfolio: *Coming Soon*

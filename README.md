@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C, C++, JavaScript  
+- **Languages**: C, C++, JavaScript, TypeScript  
 - **Frontend:** HTML, CSS, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Automation:** UiPath (Email automation, Data extraction, Exception handling)  

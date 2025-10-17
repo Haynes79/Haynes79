@@ -1,6 +1,5 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes!+👋;)
 
-<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Haynes79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/haynes-e-j)
@@ -45,7 +44,7 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
 </p>
-
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 ---
 
 📬 **Connect with Me**

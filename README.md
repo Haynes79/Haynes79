@@ -50,4 +50,4 @@
 📬 **Connect with Me**
 
 📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
-🌐 Portfolio: *Coming Soon*
+🌐 Portfolio: 

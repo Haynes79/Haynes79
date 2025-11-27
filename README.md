@@ -20,14 +20,14 @@
 - ⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**  
 - 📚 Passionate about creating automation workflows and clean, responsive UI websites  
 - 💼 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
-- 🌱 Currently exploring **Next.js** path for full-stack web apps  
+- 🌱 Recently learned **Next.js** and now exploring **advanced full-stack frameworks & performance patterns**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** C, C++, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js  
+- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js, **Remix**  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Automation:** UiPath (Email automation, Data extraction, Exception handling)  
 - **Tools:** Git, GitHub, Postman, VS Code  

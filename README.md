@@ -1,9 +1,5 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes!+👋;)
 
-<!-- Banner -->
-<p align="center">
-  <img src="./banner.png" alt="Haynes Banner" />
-</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Haynes79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/haynes-e-j)
@@ -20,14 +16,14 @@
 - ⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**  
 - 📚 Passionate about creating automation workflows and clean, responsive UI websites  
 - 💼 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
-- 🌱 Recently learned **Next.js** and now exploring **advanced full-stack frameworks & performance patterns**  
+- 🌱 Currently exploring **Next.js** path for full-stack web apps  
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages:** C, C++, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js, **Remix**  
+- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Automation:** UiPath (Email automation, Data extraction, Exception handling)  
 - **Tools:** Git, GitHub, Postman, VS Code  
@@ -49,10 +45,9 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
 </p>
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
-
 ---
 
 📬 **Connect with Me**
 
 📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
-🌐 Portfolio: 
+🌐 Portfolio:  

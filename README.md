@@ -1,5 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes!+👋;)
-
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Haynes+E+J!+👋;Full+Stack+Developer;Next.js+%7C+Node.js+%7C+Express)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Haynes79)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/haynes-e-j)
@@ -12,42 +11,93 @@
 
 ## 🚀 About Me
 
-- 💻 BCA Graduate & Aspiring **Full Stack Developer**  
-- ⚡ Exploring **Web Development | RPA with UiPath | Node.js & Express**  
-- 📚 Passionate about creating automation workflows and clean, responsive UI websites  
-- 💼 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
-- 🌱 Currently exploring **Next.js** path for full-stack web apps  
+- 💻 **BCA Graduate & Full Stack Developer**
+- ⚡ Experienced in building **modern web applications** with scalable backend systems and responsive UI
+- 🧠 Strong problem solver with **clean code practices** and product-focused development mindset
+- 🌐 Hands-on experience with **Next.js frontends** and **Express.js backend architecture**
+- 🤝 Experience working in **production-level environments** using Git & collaborative workflows
+
+---
+
+## 💼 Work Experience
+
+### **Full Stack Developer Intern — Logio Legion**  
+📆 *3 Months | 2025*
+
+- Contributed to backend development of **Kuri App** using **Node.js, Express.js & REST APIs**
+- Implemented backend functionalities, optimized **API flow, routing & data handling**
+- Converted **Figma UI designs into Next.js frontend** for company website
+- Collaborated using **Git & GitHub** in a real-world production environment
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C, C++, JavaScript, TypeScript  
-- **Frontend:** HTML, CSS, React, Tailwind CSS, Next.js  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Automation:** UiPath (Email automation, Data extraction, Exception handling)  
-- **Tools:** Git, GitHub, Postman, VS Code  
-- **Other Interests:** Automation, System Optimization, UI/UX Design  
+### 💻 Languages
+C, C++, JavaScript, Java, Python
+
+### 🎨 Frontend
+HTML, CSS, Tailwind CSS, React.js, Next.js, ShadCN UI
+
+### 🧩 Backend
+Node.js, Express.js, REST APIs
+
+### 🔐 Authentication
+JWT Auth, Google Auth
+
+### 🗄️ Database
+MongoDB, Mongoose, MySQL
+
+### ⚙️ State & Data
+Zustand, TanStack Query
+
+### ✉️ Email & Payments
+React Mail, Resend Mail, Stripe
+
+### 🧰 Tools & Tech
+Git, GitHub, Postman, Shopify, API Handling, RPA Development (UiPath)
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 **React Portfolio Website** – Smooth UI, Markdown blogs, Responsive design  
-- 🔹 **UiPath Email Automation** – Automated email workflows with attachment validation and exception handling  
-- 🔹 **Node.js REST API** – Backend API for health checks and data management  
-- 🔹 **C++ OOP Practice** – Classes, Objects, and Array-based problem solving  
+### 🌱 **Treehood — Web Application (2024)**
+Platform promoting environmental sustainability through plant purchase, tree donation, and plantation programs.  
+**Tech:** PHP, MySQL, HTML, CSS
+
+---
+
+### 🏠 **Home Rental System — Full Stack Platform (2024)**
+A digital solution that simplifies house rentals by eliminating physical visits and manual negotiations.  
+Includes property listings, secure payments, and structured workflows for tenants and owners.  
+**Tech:** React.js, Node.js, MongoDB, Stripe
+
+---
+
+## 📚 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+MES T.O Abdulla Memorial College, Kunnukara  
+📆 2022 – 2025
+
+🏫 **Schooling**  
+Amrita Vidyalayam, Kodungallur  
+📆 2010 – 2022
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
 </p>
+
 <img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 ---
 
-📬 **Connect with Me**
+## 📬 Connect With Me
 
 📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
-🌐 Portfolio:  
+📍 Ernakulam, Kerala, India  
+💼 LinkedIn: [haynes-e-j](https://www.linkedin.com/in/haynes-e-j)

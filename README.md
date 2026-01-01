@@ -34,13 +34,13 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-C, C++, JavaScript, Java, Python
+C, C++, JavaScript, Java, **Python**
 
 ### 🎨 Frontend
 HTML, CSS, Tailwind CSS, React.js, Next.js, ShadCN UI
 
 ### 🧩 Backend
-Node.js, Express.js, REST APIs
+Node.js, Express.js, REST APIs, **Django**
 
 ### 🔐 Authentication
 JWT Auth, Google Auth

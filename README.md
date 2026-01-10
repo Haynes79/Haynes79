@@ -124,9 +124,9 @@ Amrita Vidyalayam, Kodungallur
 ### :fire: My Stats :
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrx7014&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/mrx7014?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haynes79&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/Haynes79?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/mrx7014?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7014&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/Haynes79?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 

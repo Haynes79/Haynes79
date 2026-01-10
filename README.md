@@ -92,7 +92,7 @@ Amrita Vidyalayam, Kodungallur
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
 </p>
 
-<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
+<img align="center" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
 ---
 

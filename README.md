@@ -124,6 +124,6 @@ Amrita Vidyalayam, Kodungallur
 ## 📬 Connect With Me
 
 📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
-📍 Ernakulam, Kerala, India  
-💼 LinkedIn: [haynes-e-j](https://www.linkedin.com/in/haynes-e-j)
-🌐 Portfolio: [Visit my website](https://portfolio-ten-alpha-ubzmooom42.vercel.app/#hero)
+💼 LinkedIn: [haynes-e-j](https://www.linkedin.com/in/haynes-e-j)  
+🌐 Portfolio: [Visit my website](https://portfolio-ten-alpha-ubzmooom42.vercel.app/#hero)  
+📍 Ernakulam, Kerala, India

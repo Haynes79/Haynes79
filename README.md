@@ -121,27 +121,9 @@ Amrita Vidyalayam, Kodungallur
 
 ---
 
-### :fire: My Stats :
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Haynes79&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/Haynes79?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/Haynes79?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haynes79&layout=compact&theme=radical" />
-</p>
-
-<img align="center" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
-
----
-
 ## 📬 Connect With Me
 
 📧 Email: [haynesej79@gmail.com](mailto:haynesej79@gmail.com)  
 📍 Ernakulam, Kerala, India  
 💼 LinkedIn: [haynes-e-j](https://www.linkedin.com/in/haynes-e-j)
+🌐 Portfolio: [Visit my website](https://portfolio-ten-alpha-ubzmooom42.vercel.app/#hero)

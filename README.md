@@ -26,7 +26,7 @@
 ## 💼 Work Experience
 
 ### **Full Stack Developer Intern — Logio Legion**  
-📆 *3 Months | 2025*
+📆 2025*
 
 - Contributed to backend development of **Kuri App** using **Node.js, Express.js & REST APIs**
 - Implemented backend functionalities, optimized **API flow, routing & data handling**

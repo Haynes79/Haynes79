@@ -14,7 +14,6 @@
 - 🤖 Building with **AI/LLM tooling** — LangGraph, Groq, FastAPI, agentic workflows
 - ⚡ Strong in **React, Next.js, Node.js, TypeScript** and scalable backend architecture
 - 🔁 Exploring **RPA Development** with UiPath and automation pipelines
-- 🌱 Actively seeking **Full Stack / AI Developer** roles — open to remote & on-site
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding gif"/>
